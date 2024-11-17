@@ -1,5 +1,5 @@
 {
-  "homepage": "https://NiranjanGVala.github.io/harmony-health-physiotherapy-site",
+  "homepage": "https://NiranjanGVala.github.io",
   "name": "physiotherapy",
   "version": "0.1.0",
   "private": true,
@@ -25,7 +25,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  },
+      },
   "eslintConfig": {
     "extends": [
       "react-app",
