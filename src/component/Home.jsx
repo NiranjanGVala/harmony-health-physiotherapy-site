@@ -27,21 +27,21 @@ const Home = () => {
     no: 1,
     name: 'Dr. Hardik Patel',
     Description: `Dr. Hardik Patel, co-founder of Harmony Health Physiotherapy Center, brought his expertise in manual therapy to the clinic. With hands-on experience since 2017, Dr. Patel helped numerous patients recover from pain and physical limitations. His personal approach, focusing on individualized care, made a real difference in the lives of his patients. Though he left the organization in 2023, his contributions have left a lasting impact on the clinic's treatment methodologies, making it a trusted place for recovery.`,
-    email: 'drhardikpatel@gmail.com',
+    email: 'hardik.patel@harmonyhealthphysiotherapycenter.in',
     mobile: '+91 98982 88499',
     image:profile1
   }, {
     no: 2,
     name: 'Vaibhaviben Patel',
     Description: `Vaibhaviben Patel was the backbone of Harmony Health Physiotherapy Center’s administration and executive operations. Since the clinic's inception in 2017, she ensured the smooth running of all administrative tasks, which directly contributed to providing patients with a stress-free experience. Her organized and compassionate approach to the clinic's daily operations created a welcoming environment for everyone seeking care. Vaibhaviben left the organization in 2023, but her influence is still felt in the clinic’s patient-first mindset.`,
-    email: 'VaibhavibenPatel@gmail.com',
-    mobile: '+91 98982 88499',
+    email: 'vaibhavi.patel@harmonyhealthphysiotherapycenter.in',
+    mobile: '-',
     image:profile2
   }, {
     no: 3,
     name: 'Niranjan Vala',
     Description: `Niranjan Vala, the CEO of Harmony Health Physiotherapy Center, has been leading the clinic since its inception in 2017. Specializing in orthopedic conditions, Niranjan has been instrumental in helping patients overcome mobility issues and live pain-free lives. His compassionate and results-driven approach ensures that every patient receives the best possible care for their specific needs. With years of experience, Niranjan continues to drive the clinic’s mission to provide personalized, high-quality physiotherapy that improves the well-being of all who come to us.`,
-    email: 'niranjanvala@gmail.com',
+    email: 'niranjan.vala@harmonyhealthphysiotherapycenter.in',
     mobile: '+91 97125 80724',
     image:profile3
   }]
@@ -74,7 +74,7 @@ const Home = () => {
                 <div className="slider-info">
                   <h1 className='display-1 text-capitalize text-white mb-4'>Expert Care in Your Neighborhood</h1>
                   <p className='mb-5 fs-5 text-white'>Our team provides personalized therapy sessions tailored to your needs..</p>
-                  <button onClick={() => navigate('/contact-us')} className='slider-btn'>Call Us: +919898288499</button>
+                  <button onClick={() => navigate('/contact-us')} className='slider-btn'>Call Us: +919712580724</button>
                 </div>
               </div>
             </div>
@@ -86,7 +86,7 @@ const Home = () => {
                 <div className="slider-info">
                   <h1 className='display-1 text-capitalize text-white mb-4'>Advanced Physiotherapy Techniques</h1>
                   <p className='mb-5 fs-5 text-white'>Discover modern treatments for faster recovery and improved mobility.</p>
-                  <button className='slider-btn' onClick={() => navigate('/contact-us')}>Call Us: +919898288499</button>
+                  <button className='slider-btn' onClick={() => navigate('/contact-us')}>Call Us: +919712580724</button>
                 </div>
               </div>
             </div>

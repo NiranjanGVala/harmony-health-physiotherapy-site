@@ -26,7 +26,7 @@ const ContactUs = () => {
                     <div className="row g-4 align-items-center">
                         <div className="col-lg-5 col-xl-5 contact-form wow fadeInLeft" data-aos="fade-right">
                             <h2 className="display-5 text-white mb-2">Get in Touch</h2>
-                            <p className="mb-4 text-white">Feel free to reach out with any questions or to schedule an appointment. You can call us, email us, or fill out the form below, and we’ll get back to you as soon as possible.</p>
+                            <p className="mb-4 text-white">Feel free to reach out with any questions or to schedule an appointment. You can call us or email us, and we’ll get back to you as soon as possible.</p>
                         </div>
                         <div className="col-lg-2 col-xl-2 wow fadeInUp" data-aos="fade-up">
                             <div className="bg-transparent rounded">
@@ -38,13 +38,14 @@ const ContactUs = () => {
                                 <div className="d-flex flex-column align-items-center text-center mb-4">
                                     <div className="bg-white d-flex align-items-center justify-content-center mb-3" style={{ width: '90px', height: '90px', borderRadius: '50px' }}><i className="fa fa-phone-alt fa-2x text-primary"></i></div>
                                     <h4 className="text-dark">Mobile</h4>
+                                    <p className="mb-0 text-white">+9712580724</p>
                                     <p className="mb-0 text-white">+918585959293</p>
                                 </div>
 
                                 <div className="d-flex flex-column align-items-center text-center">
                                     <div className="bg-white d-flex align-items-center justify-content-center mb-3" style={{ width: '90px', height: '90px', borderRadius: '50px' }}><i className="fa fa-envelope-open fa-2x text-primary"></i></div>
                                     <h4 className="text-dark">Email</h4>
-                                    <p className="mb-0 text-white">drhardikpatel@gmail.com</p>
+                                    <p className="mb-0 text-white">info@harmonyhealthphysiotherapycenter.in</p>
                                 </div>
                             </div>
                         </div>

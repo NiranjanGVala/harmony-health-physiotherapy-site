@@ -43,8 +43,8 @@ const Footer = () => {
                             <div className="footer-item d-flex flex-column">
                                 <h4 className="mb-4 text-white">Contact Info</h4>
                                 <NavLink href=""><i className="fa fa-map-marker-alt me-2"></i>2, Dharti Complex, Mahuda Road, Mahemdabad, Dist, Kheda, Gujarat, India, 387130</NavLink>
-                                <NavLink href=""><i className="fas fa-envelope me-2"></i> drhardikpatel@gmail.com</NavLink>
-                                <NavLink href=""><i className="fas fa-phone me-2"></i> +919898288499</NavLink>
+                                <NavLink href=""><i className="fas fa-envelope me-2"></i> info@harmonyhealthphysiotherapycenter.in</NavLink>
+                                <NavLink href=""><i className="fas fa-phone me-2"></i> +919712580724</NavLink>
                             </div>
                         </div>
                     </div>
@@ -55,7 +55,7 @@ const Footer = () => {
                     <div className="row g-4 align-items-center">
                         <div className="text-center mb-md-0">
                             {/* <span className="text-white"><NavLink href="#"><i className="fas fa-copyright text-light me-2"></i>Your Site Name</NavLink>, All right reserved.</span> */}
-                            <span className='text-white'>Copyright text: <i className="fas fa-copyright text-light me-2"></i>2024 Harmony Health Physiotherapy Center. All rights reserved.</span>
+                            <span className='text-white'>Copyright: <i className="fas fa-copyright text-light me-2"></i>2017 - 2024 Harmony Health Physiotherapy Center. All rights reserved.</span>
                         </div>
                     </div>
                 </div>
